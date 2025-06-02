@@ -1,13 +1,13 @@
 Loan Prediction Using Logistic Regression
 A data science project to predict whether a customer will accept a personal loan based on demographic and financial information.
 
-Dataset
+Dataset:
 The dataset includes features such as:
 
 Age, Experience, Income, Family, Education
 Credit card spending (CCAvg), Mortgage amount
 Online banking, CreditCard, CD/Investment account indicators
-Source: [Kaggle Loan Dataset]
+Source: (https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling)
 
 Exploratory Data Analysis (EDA)
 Investigated missing values, distributions, and feature correlations.
